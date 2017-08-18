@@ -36,9 +36,15 @@ University of Illinois Urbana - Champaign, [Metcalf Lab](https://mcb.illinois.ed
 
 Moller, Elen; Kumar, Parveen; Nordi, Silje; Wedge, David; van Loo, Peter; **Peterson, April**; Mathiesen, Randi R; Fjelldal, Renathe; Esteki, Masoud Z; Grundstad, Jason A; ",Tumor heterogeneity and dissemination in breast cancer: Deep sequencing of single disseminated cells from bone marrow compared to primary tumor and lymph node metastases,CANCER RESEARCH,75,2015,"AMER ASSOC CANCER RESEARCH 615 CHESTNUT ST, 17TH FLOOR, PHILADELPHIA, PA 19106-4404 USA"
 
-Hekman, K.E., Yu, G.Y., Brown, C.D., Zhu, H., Du, X., Gervin, K., Undlien, D.E., Peterson, A., Stevanin, G., Clark, H.B. and Pulst, S.; ",A conserved eEF2 coding variant in SCA26 leads to loss of translational fidelity and increased susceptibility to proteostatic insult",Human molecular genetics,,,,2012,
+Hekman, K.E., Yu, G.Y., Brown, C.D., Zhu, H., Du, X., Gervin, K., Undlien, D.E., **Peterson, A.**, Stevanin, G., Clark, H.B. and Pulst, S.; ",A conserved eEF2 coding variant in SCA26 leads to loss of translational fidelity and increased susceptibility to proteostatic insult",Human molecular genetics,2012,  
+<add doi>
 
-Møller, Elen Kristine, Parveen Kumar, Thierry Voet, April Peterson, Peter Van Loo, Randi R. Mathiesen, Renathe Fjelldal et al; ",Next-generation sequencing of disseminated tumor cells,Frontiers in oncology,,,,2013,
+Kumar, Parveen; Moller, E; Demeulemeester, J; Nord, S; Wedge, D; **Peterson, A**; Mathiesen, R; Fjelldal, R; Zamani Esteki, Masoud; Grundstad, J. (2016). Tracing the origin of disseminated tumor cells in breast cancer using single-cell sequencing,Abstract book, Genome Biology. 23-23,2016, doi:10.1186/s13059-016-1109-7 
+(add equal contribution to first 3)?
+
+Møller, Elen; Kumar, Parveen; Nord, Silje; Wedge, David; van Loo, Peter; **Peterson, A.**; Mathiesen, Randi R; Fjelldal, Renathe; Esteki, Masoud Z; Grundstad, Jason A; ",Abstract LB-051: Tumor heterogeneity and dissemination in breast cancer: Deep sequencing of single disseminated cells from bone marrow compared to primary tumor and lymph node metastases,Cancer Research,75,15 Supplement,LB-051-LB-051,2015,American Association for Cancer Research
+
+Møller, Elen Kristine, Parveen Kumar, Thierry Voet, **April Peterson**, Peter Van Loo, Randi R. Mathiesen, Renathe Fjelldal et al; ",Next-generation sequencing of disseminated tumor cells,Frontiers in oncology,,,,2013,
 
   Garcia, S. L.\*, **Stevens, S. L. R.**\*, Crary, B., Martinez-Garcia, M., Stepanauskas, R., Woyke, T., Tringe, S. G., Andersson, S., Bertilsson, Malmstrom, R. R., McMahon, K. D. (_in review at ISME Journal_). Contrasting patterns of genome-level diversity across distinct co-occurring freshwater bacterial populations. \*Equal contributors
 
