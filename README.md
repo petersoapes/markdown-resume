@@ -1,5 +1,5 @@
-## Sarah's CV
-This is the CV for Sarah L. R. Stevens.  Branches are for special versions, for a specific application, generally.
+## April Peterson's CV
+This is the CV for April Peterson which was branched from Sarah L. R. Stevens.  Branches are for special versions, for a specific application, generally.
 
 ### Background
 Originally this used https://github.com/there4/markdown-resume to make the markdown resume.
