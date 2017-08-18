@@ -13,9 +13,11 @@ University of Wisconsin - Madison
   SciMed GRS Fellow  
   Graduate Student Committee
   
-Lawrence University  
+Lawrence University, Appleton, WI
  *Bachelor of Arts - Molecular and Cellular Biology*  - __2006-2010__  
   Minor in Linguistics  
+•	Senior Project: In silico search of novel motifs in upstream sequence of differentially expressed genes in C. elegans
+•	Officer of LU Biology club, 2007-2009.
 
 ------
 
@@ -23,10 +25,6 @@ Lawrence University
 University of Wisconsin - Madison, [McMahon Lab](https://mcmahonlab.wisc.edu/)  
  *Graduate Research Assistant* - __2012-Present__  
   Determining the forces that shape population structure and how wild bacterial populations change through time in lakes as a model system using reference genomes (composite genomes from metagenomes and single-cell genomes) for uncultivated but common freshwater bacteria and metagenomic time series from several lakes.
-
-University of Illinois Urbana - Champaign, [Metcalf Lab](https://mcb.illinois.edu/faculty/profile/metcalf/)  
- *Visiting Researcher* - __2011-2012__  
-  Assembled genomes from isolates belonging to the archaeal genus _Methanosarcina_ and analyzed shared genomic content of members of this genus.
 
 ------
 
@@ -64,18 +62,11 @@ Moller, Elen; Kumar, Parveen; Nordi, Silje; Wedge, David; van Loo, Peter; **Pete
     - [ComBEE Python Study Group](https://goo.gl/iIxi1j)  - __2014-Present__  
     - [ComBEE R Study Group](https://goo.gl/IUmrjy)  - __2015-Present__  
 
-[Software Carpentry](http://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/)  
- *Instructor* - __2015-Present__  
-
-[Data Carpentry Genomics Hack-a-thon](https://github.com/datacarpentry/genomics-hackathon)  
- *Contributor* - __Mar. 23-25, 2015__
-
-[DOE Joint Genome Institute](http://jgi.doe.gov/)  
- *Intern/Affiliate* - __Jan. 2015-Mar. 2015__  
-
 ------
 
 ## Teaching  {#teaching}
+
+TA - GEN 466. •	TA GEN466 Spring 2015.
 
 [ComBEE](https://sites.google.com/a/wisc.edu/combee) Git/Github Workshop - University of Wisconsin - Madison  
   *Instructor* - [__Mar. 2-3, 2017__](https://sstevens2.github.io/git-novice-mod/)
@@ -103,20 +94,43 @@ Moller, Elen; Kumar, Parveen; Nordi, Silje; Wedge, David; van Loo, Peter; **Pete
 
 ## Poster Presentations {#poster_pres}
 
-  **Stevens, S. L. R.**, Garcia, S. L., … McMahon, K. D. Contrasting Patterns fo Genome-level Diversity across Distinct Co-occurring Populations. 16th International Symposium on Microbial Ecology. August 2016. Montreal, Canada. [Link to Poster](https://goo.gl/8JGS52)
+1.	“The Evolution of Sexual Dimorphism of Recombination Rate in House Mice”, Peterson and Payseur. GSA, PEQG. 2016. 
+2.	“The Evolution of Sexual Dimorphism of Recombination Rates in House Mice”, April Peterson, Bret Payseur. MidWest Popgen conference. 2015.
+3.	"Identifying transcription factor binding motif of daf-19 in C.elegans". Peterson, AL and DeStatsio, E. Senior Research Project Presentations. Lawrence University Biology Department. 2008
+
+ **Stevens, S. L. R.**, Garcia, S. L., … McMahon, K. D. Contrasting Patterns fo Genome-level Diversity across Distinct Co-occurring Populations. 16th International Symposium on Microbial Ecology. August 2016. Montreal, Canada. [Link to Poster](https://goo.gl/8JGS52)
 
   **Stevens, S. L. R.**, Garcia, S. L., … McMahon, K. D. Tracking Distinct Freshwater Populations Through Time by Mapping Metagenomes to Single-cell Genomes. DOE Joint Genome Institute User Meeting 2016. Walnut Creek, CA. [Link to Poster](https://goo.gl/ShUQVn)
+
+------
+
+## Related Experience 
+
+Universeity of Chicago, 2010 to 2013
+Title: Research Technician, IGSB	
+Projects: Exome library construction, characterization of transcription factor expression in breast cancer cell lines using a microwestern approach, characterization of a tumor suppressor gene in AML cell lines.
+•	Skills: Sequencing library construction (TruSeq and custom protocols), PCR, plasmid construction, BAC construction by recombineering, data analysis with Perl and R
+•	Other Activities: IGSB journal club, Audited Intro Stats for Genetic Analysis
+
+R&D Systems, Summer to Fall 2009
+Title: Summer Intern       
+Project: Optimizing production of recombinant apoptotic proteins in mammalian cells, comparison of effects of apoptosis genes in HEK 293 and CHO cells.
+•	Skills: Cloning and designing vectors, transient transfection using polyethylenimine, mammalian cell culture maintenance, western blots, flow cytometry sample preparation.
+
+King's College Hospital, Oct. to Dec. 2008
+Title: Student Intern 
+Project: Organizing data for clinical trails in biochemistry department
+•	Assisting in ELISA assays and sample preparation for steroid analysis using LC-MS 
 
 
 ------
 
 ## Awards {#awards}
-
-  UW-Madison Dept. of Bacteriology Betley-Allen Fellowship - __2016-2017__  
-
+1.	GSA travel award
+2.	GSA grad student poster award, Third place
 
 ------
 
-Sarah Stevens -- sstevens2@wisc.edu -- sarahlrstevens@gmail.com -- [sarahlrstevens.info](sarahlrstevens.info)
+April Peterson -- alpeterson7@wisc.edu -- petersoapes@gmail.com -- 
 
 ------
