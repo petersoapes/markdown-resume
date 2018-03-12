@@ -15,6 +15,7 @@ Lawrence University, Appleton, WI
  *Bachelor of Arts - Molecular and Cellular Biology*  - __2006-2010__  
   Minor in Linguistics  
 •	Senior Project: In silico search of novel motifs in upstream sequence of differentially expressed genes in C. elegans
+
 •	Officer of LU Biology club, 2007-2009.
 
 ------
@@ -23,8 +24,17 @@ Lawrence University, Appleton, WI
 University of Wisconsin - Madison, 
  *Graduate Research Assistant* - __2013-Present__  
   Project Discription
-  Skills
+  Ecolution of sexual dimorphism in meiotic recombination rates
+  Skills: wetlab: microscopy,  DNA extraction, flourescant antibody staining, 
+  computational- created image analysis and computer vision tools, R, version control, ImageJ, 
 
+Lawrence University
+  *undergraduate research* 2008-2010
+
+R&D Systems, Minneapolis
+  *undergrad summer intern* 2009
+  Project discription, optimize transgenetic protein production
+  Skills: cloning, cell cluture, transfection techniques
 ------
 
 ## Publications {#publications}
@@ -43,19 +53,18 @@ doi:10.1371/journal.pgen.1006589.
 meeting abstracts
 Møller, Elen; Kumar, Parveen; Nord, Silje; Wedge, David; van Loo, Peter; **Peterson, A.**; Mathiesen, Randi R; Fjelldal, Renathe; Esteki, Masoud Z; Grundstad, Jason A; ",Abstract LB-051: Tumor heterogeneity and dissemination in breast cancer: Deep sequencing of single disseminated cells from bone marrow compared to primary tumor and lymph node metastases,Cancer Research,75,15 Supplement,LB-051-LB-051,2015,American Association for Cancer Research.
 
-Moller, Elen; Kumar, Parveen; Nordi, Silje; Wedge, David; van Loo, Peter; **Peterson, April**; Mathiesen, Randi R; Fjelldal, Renathe; Esteki, Masoud Z; Grundstad, Jason A; ",Tumor heterogeneity and dissemination in breast cancer: Deep sequencing of single disseminated cells from bone marrow compared to primary tumor and lymph node metastases,CANCER RESEARCH,75,2015,"AMER ASSOC CANCER RESEARCH 615 CHESTNUT ST, 17TH FLOOR, PHILADELPHIA, PA 19106-4404 USA"
+Moller, Elen; Kumar, Parveen; Nordi, Silje; Wedge, David; van Loo, Peter; **Peterson, April**; Mathiesen, Randi R; Fjelldal, Renathe; Esteki, Masoud Z; Grundstad, Jason A; ",Tumor heterogeneity and dissemination in breast cancer: Deep sequencing of single disseminated cells from bone marrow compared to primary tumor and lymph node metastases, CANCER RESEARCH, 75, 2015,"AMER ASSOC CANCER RESEARCH 615 CHESTNUT ST, 17TH FLOOR, PHILADELPHIA, PA 19106-4404 USA"
 
 ------
 
 ## Organizations {#organizations}
 
-
+graduate student committee 
 ------
 
 ## Teaching  {#teaching}
 
 TA - GEN 466. •	TA GEN466 Spring 2015.
-
 
 ------
 
@@ -64,24 +73,22 @@ TA - GEN 466. •	TA GEN466 Spring 2015.
 
 ## Oral Presentations {#oral_pres}
 
-  **Peterson, A. L.** Evolution of Recombination. Rebecca J. Holz series in Research Data Management. July 2017. Portland, OR.
-TODO: link to my slides
+  **Peterson, A. L.** Evolution of Recombination.  July 2017. Portland, OR.
+TODO: link to my slides [Link to Slides](https://goo.gl/0ge2LZ)
 
-  **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … McMahon, K. D. Malmstrom, R. R. Tracking Microbial Populations Through Time Using Single-cell Genomes and Metagenomics. UW Center for Limnology Seminar. December 2015. Madison, WI. [Link to Slides](https://goo.gl/0ge2LZ)
-
-  **Stevens, S. L. R.**, Bendall, M. L., Chan, L.-K., Malfatti, S., Schwientek, P., Tremblay, J., … McMahon, K. D. Malmstrom, R. R. Genome-wide and Gene-specific Selective Sweeps in Freshwater Bacterial Populations Revealed Using Metagenomics. JF Crow Institute for the Study of Evolution Seminar Series. October 2015. Madison, WI. [Link to Slides](https://goo.gl/oSnDYG)
-
-
+  **Peterson, A. L.** Genetics seminar.  July 2017. Madison, WI.
+TODO: link to my slides [Link to Slides](https://goo.gl/0ge2LZ)
 ------
 
 ## Poster Presentations {#poster_pres}
 
-1.	“The Evolution of Sexual Dimorphism of Recombination Rate in House Mice”, Peterson and Payseur. GSA, PEQG. 2016. 
-2.	“The Evolution of Sexual Dimorphism of Recombination Rates in House Mice”, April Peterson, Bret Payseur. MidWest Popgen conference. 2015.
+1.	**Peterson** and Payseur. “The Evolution of Sexual Dimorphism of Recombination Rate in House Mice”,  GSA, PEQG. 2016. [Link to Poster](https://goo.gl/8JGS52)
+
+2.	**April Peterson**, Bret Payseur. “The Evolution of Sexual Dimorphism of Recombination Rates in House Mice”,  MidWest Popgen conference. 2015.
+
 3.	"Identifying transcription factor binding motif of daf-19 in C.elegans". Peterson, AL and DeStatsio, E. Senior Research Project Presentations. Lawrence University Biology Department. 2008
 
- **Stevens, S. L. R.**, Garcia, S. L., … McMahon, K. D. Contrasting Patterns fo Genome-level Diversity across Distinct Co-occurring Populations. 16th International Symposium on Microbial Ecology. August 2016. Montreal, Canada. [Link to Poster](https://goo.gl/8JGS52)
-
+ **Stevens, S. L. R.**, Garcia, S. L., … McMahon, K. D. Contrasting Patterns fo Genome-level Diversity across Distinct Co-occurring Populations. 16th International Symposium on Microbial Ecology. August 2016. Montreal, Canada. 
 ------
 
 ## Related Experience 
